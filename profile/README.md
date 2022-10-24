@@ -1,4 +1,4 @@
-<div align=center><img width="150" height="150"  src="https://github.com/outwinter/.github/blob/master/profile/OutWinter.png"/>
+<div align=center><img src="https://github.com/outwinter/.github/blob/master/profile/OutWinter.png"/>
 
 
 
